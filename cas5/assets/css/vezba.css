@@ -1,0 +1,32 @@
+#vezba1{
+    color: black;
+    background-color: aliceblue;
+    font-size: 45px;
+}
+
+#vezba2{
+    color: red;
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+
+#vezba3{
+    color: bisque;
+    background-color: burlywood;
+    font-size: 55px;
+    background-image: url(../images/slika1.jfif);
+}
+
+#vezba4{
+    color: bisque;
+    background-color: yellow;
+    font-size: 60px;
+    background-image: url(../images/slika2.jfif) ;
+}
+
+#vezba5{
+    color: bisque;
+    background-color: blue;
+    font-size: 65px;
+    background-image: url(../images/slika3.jfif);
+}

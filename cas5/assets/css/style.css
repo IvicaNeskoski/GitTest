@@ -1,0 +1,28 @@
+body {
+    /* background-color: rgba(80, 60, 169, 0.6 ); */
+    /* background-color: #3b5998; */
+    background-image: url("../images/nature.jfif");
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: 150px;
+    
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+#language{
+    font-size: 80px;
+    color: green;
+}
+
+.some_text{
+    color: blue;
+}
+
+#text{
+    color: yellow;
+}
